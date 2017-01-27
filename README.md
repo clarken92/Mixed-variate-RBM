@@ -1,4 +1,4 @@
-# Mixed-variate-RBM
+# Mixed-variate RBM
 
 This is an implementation of standard RBM, Mixed-variate RBM and sparse RBM in Python/Theano which was used in the paper:
 
