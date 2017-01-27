@@ -1,6 +1,6 @@
 # Mixed-variate RBM
 
-This is an implementation of standard RBM, Mixed-variate RBM and sparse RBM in Python/Theano which was used in the paper:
+This is an implementation of standard RBMs, Mixed-variate RBMs and sparse RBMs in Python/Theano which was used in the paper:
 
 "**_Outlier Detection on Mixed-Type Data: An Energy-based Approach_**" (Kien Do, Truyen Tran, Dinh Phung, Svetha Venkatesh, ADMA 2016)
 
